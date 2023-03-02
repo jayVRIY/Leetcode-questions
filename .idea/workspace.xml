@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d856b02e-af7d-43b1-9071-ad21bf4c44f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/orcircle/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/orcircle/leetcode/editor/en/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/orcircle/leetcode/editor/en/[21]Merge Two Sorted Lists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/orcircle/leetcode/editor/en/doc/content/[21]Merge Two Sorted Lists.md" afterDir="false" />
+    <list default="true" id="d856b02e-af7d-43b1-9071-ad21bf4c44f8" name="Changes" comment="leecode">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/orcircle/leetcode/editor/en/[21]Merge Two Sorted Lists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/orcircle/leetcode/editor/en/[21]Merge Two Sorted Lists.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +42,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "leetcode.id",
     "show.migrate.to.gradle.popup": "false"
   }
@@ -115,8 +106,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677764753153</updated>
-      <workItem from="1677764754498" duration="1599000" />
+      <workItem from="1677764754498" duration="2319000" />
     </task>
+    <task id="LOCAL-00001" summary="leecode">
+      <created>1677766403453</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677766403453</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,5 +134,27 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="leecode" />
+    <option name="LAST_COMMIT_MESSAGE" value="leecode" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/orcircle/leetcode/editor/en/[21]Merge Two Sorted Lists.java</url>
+          <line>20</line>
+          <properties class="com.orcircle.leetcode.editor.en.MergeTwoSortedLists.Solution" method="mergeTwoLists">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/orcircle/leetcode/editor/en/[21]Merge Two Sorted Lists.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
